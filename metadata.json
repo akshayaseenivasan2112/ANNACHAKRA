@@ -1,0 +1,6 @@
+{
+  "name": "AnnaChakra",
+  "description": "Every food batch gets a live Spoilage Clock powered by Arrhenius Mean Kinetic Temperature food-safety modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
